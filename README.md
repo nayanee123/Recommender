@@ -11,3 +11,13 @@ In the e-commerce industry, providing personalized product recommendations to cu
 •	Increase customer engagement and satisfaction by accurately predicting products of interest.
 
 •	Leverage various recommendation techniques and evaluation metrics to deliver an optimal solution.
+
+ | S.NO.| TOPIC | LINK |
+|-|-|-|
+|01| Problem Statement |(https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/Guide%20-%20Data%20Science%202.0%20Capstone%20Project.docx)
+|02| Data Sources |(http://localhost:8888/nbconvert/notebook/Recommender.ipynb?download=true)
+|03| Model Traning & Preprocessing |(http://localhost:8888/notebooks/Recommender.ipynb#)
+|04| Evaluation |(http://localhost:8888/notebooks/Recommender.ipynb#)
+|05|Integretion |(http://localhost:8888/notebooks/Recommender.ipynb#)
+|06| Model Refinement |(http://localhost:8888/notebooks/Recommender.ipynb#)
+
